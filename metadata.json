@@ -1,0 +1,5 @@
+{
+  "name": "BANK RECONCILIATION APP ",
+  "description": "Intelligent Bank Reconciliation powered by Gemini. Upload your Bank Statements and General Ledgers (PDF/CSV) for instant, automated reconciliation.",
+  "requestFramePermissions": []
+}
